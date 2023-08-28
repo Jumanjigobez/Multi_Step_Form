@@ -106,7 +106,7 @@ const Step_2 = () =>{
                 <div className="part_2">
                     <div className="box" onClick={() => handlePlanType("arcade")}>
                         <div className="icon_part">
-                            <img src="Multi_Step_Form/assets/images/icon-arcade.svg" alt="arcade icon"/>
+                            <img src="/Multi_Step_Form/assets/images/icon-arcade.svg" alt="arcade icon"/>
                         </div>
 
                         <div className="text_part">
@@ -118,7 +118,7 @@ const Step_2 = () =>{
 
                     <div className="box" onClick={() => handlePlanType("advanced")}>
                         <div className="icon_part">
-                            <img src="Multi_Step_Form/assets/images/icon-advanced.svg" alt="advanced icon"/>
+                            <img src="/Multi_Step_Form/assets/images/icon-advanced.svg" alt="advanced icon"/>
                         </div>
 
                         <div className="text_part">
@@ -130,7 +130,7 @@ const Step_2 = () =>{
 
                     <div className="box" onClick={() => handlePlanType("pro")}>
                         <div className="icon_part">
-                            <img src="Multi_Step_Form/assets/images/icon-pro.svg" alt="pro icon"/>
+                            <img src="/Multi_Step_Form/assets/images/icon-pro.svg" alt="pro icon"/>
                         </div>
 
                         <div className="text_part">
