@@ -13,7 +13,7 @@ const Success = () =>{
         <>
             <section id="thank_you">
                 <div className="part_1">
-                    <img src="Multi_Step_Form/assets/images/icon-thank-you.svg" alt="confirmed icon"/>
+                    <img src="/Multi_Step_Form/assets/images/icon-thank-you.svg" alt="confirmed icon"/>
                 </div>
 
                 <div className="part_2">
